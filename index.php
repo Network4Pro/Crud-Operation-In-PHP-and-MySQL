@@ -58,7 +58,7 @@ require "connexion.php";
               product;
               $i++;
             }
-
+echo "sdf";
           ?>
         </tbody>
     </table>
